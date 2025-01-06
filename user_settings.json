@@ -1,0 +1,11 @@
+{
+  "showLatitude": false,
+  "showLongitude": true,
+  "showFactoryId": true,
+  "showDriveStatus": true,
+  "showState": true,
+  "showName": true,
+  "showMake": true,
+  "showModel": true,
+  "showOnline": true
+}
