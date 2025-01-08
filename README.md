@@ -24,8 +24,7 @@ Fetch GPS information of devices associated with a user's account from an extern
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/codelur/golang_gps.git
    Install Dependencies Ensure you have Go installed.
    ```
 
