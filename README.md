@@ -55,13 +55,18 @@ API Endpoints
    Description: Retrieve GPS data of devices from an external API.
 
    Usage
+
    Integrate this server with a Vue frontend to manage dynamic field rendering and Google Maps integration.
    Use the endpoints to store settings, retrieve settings, and fetch GPS data securely.
+
    License
-   This project is licensed under the MIT License. See the LICENSE file for details.
+
+   This project is licensed under the MIT License.
 
 Contributions
+
 Contributions are welcome! Feel free to fork this repository, make changes, and submit a pull request.
 
 Contact
+
 For inquiries or support, please contact codelur@gmail.com.
